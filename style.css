@@ -7,9 +7,9 @@
 body {
   display: flex;
   flex-direction: column;
-  height: 100vh;
-  min-height: 1024px;
-  overflow: hidden;
+/*   height: 100vh;
+  min-height: 1024px; */
+  overflow-x: hidden;
   align-items: center;
   justify-content: center;
   text-align: center;
